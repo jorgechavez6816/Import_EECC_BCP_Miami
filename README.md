@@ -1,5 +1,5 @@
-# Import_EECC_BCP
-IDEAScript que permite importar la información contenida en los Estados de cuentas bancarios del Banco de Crédito del Perú, en moneda nacional o extranjera y de tipo "Cuenta Corriente".
+# Import_EECC_BCP_Miami
+IDEAScript que permite importar la información contenida en los Estados de cuentas bancarios del Banco de Crédito del Perú en Miami.
 
 Consideraciones:
 
